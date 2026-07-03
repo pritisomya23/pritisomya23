@@ -1,204 +1,134 @@
-<h1 align="center">Hi 👋, I'm Pritisomya Sahu</h1>
-<h3 align="center">Business Intelligence Analyst | Power BI Developer | SQL Enthusiast | Data Storyteller</h3>
+# Hi there 👋 I'm Pritisomya Sahu
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&color=2E8BFF&center=true&vCenter=true&width=700&lines=Business+Intelligence+Analyst;Power+BI+Developer;SQL+%7C+Snowflake+%7C+Python;Transforming+Data+into+Business+Insights;Always+Learning+New+Technologies" />
-</p>
+### Business Intelligence Analyst | Power BI Developer | SQL | Snowflake | Python
 
 ---
 
 ## 👨‍💻 About Me
 
-🎯 Business Intelligence Analyst with nearly **7 years of experience** delivering actionable insights through analytics and visualization.
+I'm a Business Intelligence Analyst with nearly **7 years of experience** helping organizations make data-driven decisions.
 
-📊 Experienced in building enterprise dashboards using **Power BI**, writing optimized **SQL**, working with **Snowflake**, and analyzing customer behavior using **Google Analytics (GA4)**.
+I enjoy transforming complex business problems into actionable insights through dashboards, reporting, and analytics.
 
-🚀 Passionate about solving business problems with data, automating reporting processes, and improving decision-making through interactive dashboards.
+### What I work with
 
-🌱 Currently learning
+- 📊 Power BI
+- 🗄️ SQL
+- ❄️ Snowflake
+- 🐍 Python
+- 📈 Google Analytics (GA4)
+- 📉 BigQuery
+- 📋 Excel
+- 🤖 AI-assisted Analytics (Microsoft Copilot & OpenAI)
+
+---
+
+## 💼 Professional Experience
+
+### Business Intelligence Analyst | Inspire Brands
+
+- Developed enterprise Power BI dashboards
+- Built automated KPI reporting solutions
+- Optimized SQL queries for faster reporting
+- Delivered insights that improved digital order conversion by **10%**
+- Reduced manual reporting effort by **50%**
+- Contributed to inventory optimization, reducing wastage by **12%**
+
+### Associate Data Analyst | Ivy Comptech
+
+- Built Power BI & Tableau dashboards
+- Performed Product Analytics
+- Conducted A/B Testing
+- Analyzed user behavior and engagement
+- Supported Product and Marketing teams with actionable insights
+
+---
+
+## 🚀 Technical Skills
+
+### Business Intelligence
+- Power BI
+- DAX
+- Power Query
+- Data Visualization
+
+### Databases
+- SQL
+- Snowflake
+- BigQuery
+
+### Programming
+- Python
+
+### Analytics
+- Google Analytics (GA4)
+- KPI Development
+- Funnel Analysis
+- A/B Testing
+- Forecasting
+- Data Storytelling
+
+### AI & Automation
+- Microsoft Copilot
+- OpenAI GPT
+- Prompt Engineering
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Executive KPI Dashboard
+Power BI dashboard for executive reporting with interactive KPIs and business insights.
+
+### 🍔 QSR Analytics Dashboard
+Sales, customer behavior, and operational analytics for the restaurant industry.
+
+### 📦 Demand Forecasting Dashboard
+Inventory planning and demand forecasting using SQL and Power BI.
+
+### 🎮 Gaming Analytics Dashboard
+Player retention, engagement, and A/B testing analysis.
+
+### 👥 HR Analytics Dashboard
+Workforce metrics, compensation insights, and employee reporting.
+
+---
+
+## 🌱 Currently Learning
 
 - Microsoft Fabric
 - Azure Data Platform
-- Advanced Python for Analytics
-- Data Engineering Concepts
+- Advanced Python
+- Data Engineering
+- Machine Learning
 - AI for Business Intelligence
 
 ---
 
-## 🚀 Tech Stack
+## 🎯 Career Interests
 
-### BI & Visualization
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-yellow?style=for-the-badge)
-
-### Databases
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud)
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-### Analytics
-
-![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
-
-### AI Tools
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Microsoft Copilot](https://img.shields.io/badge/Copilot-0078D4?style=for-the-badge)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-# 💼 Professional Experience
-
-### Business Intelligence Analyst
-
-📍 Inspire Brands
-
-- Developed enterprise Power BI dashboards
-- Automated reporting processes
-- Built KPI dashboards
-- Worked with Snowflake & SQL
-- Improved Digital Order Conversion by **10%**
-- Reduced Manual Reporting by **50%**
-- Improved Inventory Planning reducing wastage by **12%**
-
----
-
-### Associate Data Analyst
-
-📍 Ivy Comptech
-
+- Business Intelligence
+- Data Analytics
 - Product Analytics
-- Gaming Analytics
-- A/B Testing
-- User Behaviour Analysis
-- Executive Dashboards
-- Tableau & Power BI Reporting
+- Power BI Development
+- Data Engineering
+- Cloud Analytics
 
 ---
 
-# 📊 Featured Projects
+## 📫 Connect With Me
 
-### 📈 Executive Sales Dashboard
+📧 Email: sahupritisomya@gmail.com
 
-✔ Power BI
+💼 LinkedIn:
+www.linkedin.com/in/pritisomya-sahu-23dec
 
-✔ SQL
-
-✔ DAX
-
-✔ Executive KPIs
+📍 Hyderabad, India
 
 ---
 
-### 📦 Demand Forecasting Dashboard
+## 💡 Fun Fact
 
-- Inventory Optimization
-- Forecast Accuracy
-- Sales Trend Analysis
-- Store Performance
+> I enjoy turning raw data into meaningful business stories that help teams make smarter decisions.
 
----
-
-### 🍔 QSR Business Intelligence Dashboard
-
-- Revenue Analysis
-- Digital Funnel
-- Conversion Rate
-- Customer Behaviour
-- Executive Reporting
-
----
-
-### 🎮 Gaming Analytics Dashboard
-
-- Player Retention
-- A/B Testing
-- Revenue KPIs
-- User Engagement
-
----
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pritisomya23&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=pritisomya23&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 Achievements
-
-🏅 Improved Digital Conversion by **10%**
-
-🏅 Reduced Manual Reporting by **50%**
-
-🏅 Reduced Inventory Wastage by **12%**
-
-🏅 Automated BI Reporting using AI
-
-🏅 Delivered Executive Dashboards used by Leadership
-
-🏅 Conducted Product A/B Testing improving User Engagement
-
----
-
-## 📚 Currently Learning
-
-✔ Microsoft Fabric
-
-✔ Azure
-
-✔ Data Engineering
-
-✔ Machine Learning
-
-✔ AI for Analytics
-
-✔ Advanced SQL Optimization
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: **sahupritisomya@gmail.com**
-
-💼 LinkedIn: https://linkedin.com/in/pritisomya-sahu-23dec
-
-🌍 Hyderabad, India
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pritisomya23&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-⭐ *"Without data, you're just another person with an opinion."* — W. Edwards Deming# pritisomya
+⭐ Thanks for visiting my profile!
