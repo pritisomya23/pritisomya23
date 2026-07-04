@@ -69,9 +69,8 @@ I enjoy solving business problems using data and continuously learning modern an
 
 ### ⚙️ Tools
 
-- Git
+- Jupyter Notebook
 - GitHub
-- VS Code
 - Agile Methodology
 
 ---
