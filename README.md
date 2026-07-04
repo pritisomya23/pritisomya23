@@ -4,7 +4,7 @@
 
 ### 💼 Business Intelligence Analyst | 📊 Power BI Developer | 🗄️ SQL | ❄️ Snowflake | 🐍 Python
 
-> **"Transforming Data into Business Value through Analytics, Automation, and Storytelling."**
+ **"Transforming Data into Business Value through Analytics, Automation, and Storytelling."**
 
 ![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-CDB4DB?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F6D365?style=for-the-badge)
